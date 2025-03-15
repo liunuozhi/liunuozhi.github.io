@@ -10,13 +10,13 @@ export interface Portfolio {
 export const portfolioData: Portfolio[] = [
   // Example entry
   {
-    title: "Causal Discovery Framework",
+    title: "2013-2019 Design Portfolio",
     description:
-      "A framework for discovering causal relationships in high-dimensional time series data using state-of-the-art machine learning techniques.",
+      "Architectural design portfolio.",
     technologies: ["Python", "PyTorch", "React"],
-    projectUrl: "https://project-demo.com",
+    projectUrl: "https://issuu.com/ronnieliu/docs/2019-liunuozhi_portfolio",
     imageUrl:
-      "https://images.unsplash.com/photo-1561622539-dffbfc2008fd?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    codeUrl: "https://github.com/username/project",
+      "https://i.postimg.cc/FRdBH6wx/portfolio-thumbnail.png",
+    // codeUrl: "",
   },
 ];

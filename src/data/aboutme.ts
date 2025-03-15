@@ -18,22 +18,23 @@ export interface AboutMe {
 }
 
 export const aboutMe: AboutMe = {
-  name: "Jane R. Smith",
-  title: "Ph.D. Candidate",
-  institution: "Stanford University",
+  name: "Liu Nuozhi",
+  title: "Research Associate",
+  institution: "Singapore University of Technology and Design",
   // Note that links work in the description
   description:
-    "I'm a final-year <a href='https://www.stanford.edu'>PhD candidate</a> working at the intersection of causal inference and machine learning. My research focuses on developing robust, interpretable systems that can reason about cause and effect in complex environments.",
-  email: "______@stanford.edu",
+  "I am a Research Associate at <a href='https://artificial-architecture.ai/'>Artificial Architectural Lab</a>, supervised by <a href='https://www.sutd.edu.sg/profile/immanuel-koh'>Prof. Immanuel Koh</a>, at the <a href='http://www.sutd.edu.sg'>Singapore University of Technology and Design (SUTD)</a>. My research interests include urban data analysis, generative design, and 3D deep learning.",
+  email: "rliunz1995@gmail.com",
   imageUrl:
-    "https://images.unsplash.com/photo-1581481615985-ba4775734a9b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  googleScholarUrl: "https://scholar.google.com/citations?user=bWtMl_MAAAAJ",
-  githubUsername: "janesmith",
-  linkedinUsername: "janesmith",
-  twitterUsername: "janesmith",
-  blogUrl: "https://",
-  cvUrl: "https://",
-  institutionUrl: "https://www.stanford.edu",
+    "https://i.postimg.cc/Bb0GcwmB/DSC-3349.jpg",
+  googleScholarUrl: "https://scholar.google.com/citations?user=oc15mp0AAAAJ",
+  githubUsername: "liunuozhi",
+  linkedinUsername: "nuozhi-liu-595248120",
+  // linkedinUsername: "janesmith",
+  // twitterUsername: "janesmith",
+  // blogUrl: "https://",
+  // cvUrl: "https://",
+  institutionUrl: "https://www.sutd.edu.sg",
   // altName: "",
   // secretDescription: "I like dogs.",
 };
