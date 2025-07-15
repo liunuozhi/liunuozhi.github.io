@@ -29,7 +29,7 @@ export const publicationData: Publication[] = [
   },
   {
     year: "2022",
-    conference: "CAADRIA 2022",
+    conference: "CAADRIA",
     title: "Machine-reading Places and Spaces: Generative Probabilistic Modelling of Urban Thematic Zones and Contexts",
     authors: "Nuozhi Liu, Immanuel Koh",
     paperUrl: "https://d1wqtxts1xzle7.cloudfront.net/107768361/caadria2022_238-libre.pdf?1700834360=&response-content-disposition=inline%3B+filename%3DMachine_Reading_Places_and_amp_Spaces_Ge.pdf&Expires=1742021641&Signature=M7DzWNjm4Rtq1LziNYyycfAVBbtt5WHuKNTYUQjfMBN1Gyf~0KMB0oTB8aD6XVorIKY019Vb8nLxRfpq~QtRhmfWbeodCrqY4jwgP3m4GwMq~rQLGaOq7JavowM4hhwfLe~S6XPYhWH01HFV0Jw7Is7HTrggM1-8I3oAa0VLz7dB3rWAKZCEQK2cyCoUQ~5ZXIWsF-qUzywYJifUdOhbR3X~5jA0KLSRdfJw97cZ9a6koh-m6OwOklGH0WoWVNOlLkvtSrWaqTfAB9M36mylT18R2zMwx4e9Unbpy1LZr3J~mrmE44B7asMNmY--eqAU3Cu9V3P3FLlArZWqDNEtUQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA",
