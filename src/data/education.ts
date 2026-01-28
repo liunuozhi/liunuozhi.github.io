@@ -17,7 +17,7 @@ export const educationData: Education[] = [
   },
   {
     year: "2013—2018",
-    institution: "Taiwan Feng Chia University",
+    institution: "Feng Chia University",
     degree: "Bachelor of Architecture",
     // thesis: "",
     // Optional links to thesis

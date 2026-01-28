@@ -13,8 +13,8 @@ export const portfolioData: Portfolio[] = [
     title: "2013-2019 Design Portfolio",
     description:
       "Architectural design portfolio.",
-    technologies: ["Python", "PyTorch", "React"],
-    projectUrl: "https://issuu.com/ronnieliu/docs/2019-liunuozhi_portfolio",
+    technologies: ["Architectural Design"],
+    projectUrl: "https://drive.google.com/file/d/1A_SMowoVq_PRcNNlJUrPZv3P6ndtI-8K/view?usp=sharing",
     imageUrl:
       "https://i.postimg.cc/FRdBH6wx/portfolio-thumbnail.png",
     // codeUrl: "",
